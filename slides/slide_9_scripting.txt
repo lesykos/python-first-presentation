@@ -1,0 +1,12 @@
+Scripting
+
+Scripting means writing small programs (scripts) that automate repetitive tasks or control other software.
+
+Python is ideal for scripting because it’s:
+	interpreted (no need to compile),
+	cross-platform (runs on Windows, macOS, Linux),
+	has clear, readable syntax.
+
+You just write the script → run it → get results instantly.
+
+Common Scripting Tasks: Automation, Data Manipulation, Web Scraping, API Interaction, Task Scheduling.
