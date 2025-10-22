@@ -1,0 +1,17 @@
+🧮 Slide 1: Data Science and Analytics
+
+Python in Data Science
+
+One of the main languages for data analysis.
+
+Used for:
+
+Processing large datasets (Big Data)
+Statistical analysis
+Data visualization
+
+Popular libraries:
+pandas — data manipulation
+NumPy — numerical computing
+Matplotlib, seaborn — visualization tools
+
