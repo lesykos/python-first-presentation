@@ -1,0 +1,14 @@
+🤖 Slide 2: Machine Learning and Artificial Intelligence
+
+Python in AI and ML
+The standard language for AI model development.
+Used for:
+Building neural networks
+Classification and prediction tasks
+Image and speech recognition
+
+Popular libraries:
+TensorFlow
+Keras
+scikit-learn
+PyTorch
