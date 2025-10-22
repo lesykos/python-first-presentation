@@ -1,0 +1,12 @@
+Slide 5: Software Development 
+
+Title: 💻 Software Development with Python
+
+Content:
+
+Ideal for creating desktop applications, utilities, and services.
+
+Python's simplicity speeds up development and debugging.
+
+Popular libraries: tkinter, PyQt, Kivy.
+
