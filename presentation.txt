@@ -2,4 +2,25 @@
 Title: Main Uses of Python
 Description: A concise overview of Python’s primary application areas. Team #3
 
-#end
+
+#8
+Title: Web development
+
+Python is extensively used in web development, particularly for building dynamic web applications.
+
+Why Python for Web Development? 
+Advantages: Simplicity, extensive libraries, scalability, and integration capabilities.
+
+Web Frameworks - allows developers to write Web applications or services without having to handle such low-level details as protocols, sockets or process/thread management.
+
+Most popular high-level framework:
+Django
+	Initial release 21 July 2005; 20 years ago. Current release 5.2.7
+	Includes ORM, admin panel, authentication, and much more out of the box.
+	Great for: Large, data-driven applications that need fast development and scalability.
+
+Popular Non Full-Stack Framework (for building APIs):
+	Flask
+	Initial release 1 April 2010; 15 years ago. Current release 3.1.2
+	Includes WSGI Toolkit, routing, request handling and other.
+	Great for: REST APIs, prototypes, and small-to-medium apps.
