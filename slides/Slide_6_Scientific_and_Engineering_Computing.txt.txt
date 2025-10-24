@@ -1,0 +1,10 @@
+Slide 6: Scientific and Engineering Computing
+
+Title: Python in Scientific and Engineering Computing
+Content:
+Python — a standard in science and technology: used in physics, biology, finance, and engineering.
+Powerful libraries:
+SciPy, SymPy — complex mathematical, statistical, and symbolic computations.
+matplotlib — data visualization, graphs, and models.
+Advantages: integrates with other languages, handles large datasets efficiently, supported by an active scientific community.
+Conclusion: a universal tool for scientific discoveries and engineering solutions.
