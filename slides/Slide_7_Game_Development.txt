@@ -1,0 +1,10 @@
+Slide 7: Game Development
+
+Title: Game development with Python
+Content:
+Easy to learn: even beginners can quickly create their own games.
+Pygame — a library for creating 2D games (platformers, arcades, puzzles).
+Panda3D — a 3D engine with physics, lighting, cameras, and VR support.
+Python’s advantage: focus on game logic instead of technical complexity.
+Great for learning and rapid prototyping of game ideas.
+
