@@ -3,6 +3,38 @@ Title: Main Uses of Python
 Description: A concise overview of Python’s primary application areas. Team #3
 
 
+#6
+
+Title: Python in Scientific and Engineering Computing
+
+Content:
+Python — a standard in science and technology: used in physics, biology, finance, and engineering.
+
+Powerful libraries:
+SciPy, SymPy — complex mathematical, statistical, and symbolic computations.
+
+matplotlib — data visualization, graphs, and models.
+Advantages: integrates with other languages, handles large datasets efficiently, supported by an active scientific community.
+
+Conclusion: a universal tool for scientific discoveries and engineering solutions.
+
+
+#7
+Title: Game development with Python
+
+Content:
+Easy to learn: even beginners can quickly create their own games.
+
+Pygame — a library for creating 2D games (platformers, arcades, puzzles).
+
+Panda3D — a 3D engine with physics, lighting, cameras, and VR support.
+
+Python’s advantage: focus on game logic instead of technical complexity.
+
+Great for learning and rapid prototyping of game ideas.
+
+
+
 #8
 Title: Web development
 
