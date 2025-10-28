@@ -39,6 +39,29 @@ Keras
 scikit-learn
 PyTorch
 
+
+#4
+
+title: Software Development 
+
+Ideal for creating desktop applications, utilities, and services.
+
+Python's simplicity speeds up development and debugging.
+
+Popular libraries: tkinter, PyQt, Kivy.
+
+
+#5
+
+Title: DevOps and Testing with Python
+
+Used for automation of deployment, testing, and CI/CD pipelines.
+
+Python simplifies repetitive tasks and system management.
+
+Tools: pytest, Ansible, Fabric.
+
+
 #6
 
 Title: Python in Scientific and Engineering Computing
