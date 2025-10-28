@@ -2,6 +2,42 @@
 Title: Main Uses of Python
 Description: A concise overview of Python’s primary application areas. Team #3
 
+#2
+
+Title: Data Science and Analytics
+
+Python in Data Science
+
+One of the main languages for data analysis.
+
+Used for:
+
+Processing large datasets (Big Data)
+Statistical analysis
+Data visualization
+
+Popular libraries:
+pandas — data manipulation
+NumPy — numerical computing
+Matplotlib, seaborn — visualization tools
+
+
+#3
+
+Title: Machine Learning and Artificial Intelligence
+
+Python in AI and ML
+The standard language for AI model development.
+Used for:
+Building neural networks
+Classification and prediction tasks
+Image and speech recognition
+
+Popular libraries:
+TensorFlow
+Keras
+scikit-learn
+PyTorch
 
 #6
 
